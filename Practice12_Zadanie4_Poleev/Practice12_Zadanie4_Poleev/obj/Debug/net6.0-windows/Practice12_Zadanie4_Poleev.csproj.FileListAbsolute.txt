@@ -1,0 +1,17 @@
+C:\Users\ivang\OneDrive\Рабочий стол\college_2_kurs\Основы_алгоритмизации\Practice12_Zadanie4_Poleev\Practice12_Zadanie4_Poleev\bin\Debug\net6.0-windows\Practice12_Zadanie4_Poleev.exe
+C:\Users\ivang\OneDrive\Рабочий стол\college_2_kurs\Основы_алгоритмизации\Practice12_Zadanie4_Poleev\Practice12_Zadanie4_Poleev\bin\Debug\net6.0-windows\Practice12_Zadanie4_Poleev.deps.json
+C:\Users\ivang\OneDrive\Рабочий стол\college_2_kurs\Основы_алгоритмизации\Practice12_Zadanie4_Poleev\Practice12_Zadanie4_Poleev\bin\Debug\net6.0-windows\Practice12_Zadanie4_Poleev.runtimeconfig.json
+C:\Users\ivang\OneDrive\Рабочий стол\college_2_kurs\Основы_алгоритмизации\Practice12_Zadanie4_Poleev\Practice12_Zadanie4_Poleev\bin\Debug\net6.0-windows\Practice12_Zadanie4_Poleev.dll
+C:\Users\ivang\OneDrive\Рабочий стол\college_2_kurs\Основы_алгоритмизации\Practice12_Zadanie4_Poleev\Practice12_Zadanie4_Poleev\bin\Debug\net6.0-windows\Practice12_Zadanie4_Poleev.pdb
+C:\Users\ivang\OneDrive\Рабочий стол\college_2_kurs\Основы_алгоритмизации\Practice12_Zadanie4_Poleev\Practice12_Zadanie4_Poleev\obj\Debug\net6.0-windows\Practice12_Zadanie4_Poleev.csproj.AssemblyReference.cache
+C:\Users\ivang\OneDrive\Рабочий стол\college_2_kurs\Основы_алгоритмизации\Practice12_Zadanie4_Poleev\Practice12_Zadanie4_Poleev\obj\Debug\net6.0-windows\Practice12_Zadanie4_Poleev.Form1.resources
+C:\Users\ivang\OneDrive\Рабочий стол\college_2_kurs\Основы_алгоритмизации\Practice12_Zadanie4_Poleev\Practice12_Zadanie4_Poleev\obj\Debug\net6.0-windows\Practice12_Zadanie4_Poleev.csproj.GenerateResource.cache
+C:\Users\ivang\OneDrive\Рабочий стол\college_2_kurs\Основы_алгоритмизации\Practice12_Zadanie4_Poleev\Practice12_Zadanie4_Poleev\obj\Debug\net6.0-windows\Practice12_Zadanie4_Poleev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivang\OneDrive\Рабочий стол\college_2_kurs\Основы_алгоритмизации\Practice12_Zadanie4_Poleev\Practice12_Zadanie4_Poleev\obj\Debug\net6.0-windows\Practice12_Zadanie4_Poleev.AssemblyInfoInputs.cache
+C:\Users\ivang\OneDrive\Рабочий стол\college_2_kurs\Основы_алгоритмизации\Practice12_Zadanie4_Poleev\Practice12_Zadanie4_Poleev\obj\Debug\net6.0-windows\Practice12_Zadanie4_Poleev.AssemblyInfo.cs
+C:\Users\ivang\OneDrive\Рабочий стол\college_2_kurs\Основы_алгоритмизации\Practice12_Zadanie4_Poleev\Practice12_Zadanie4_Poleev\obj\Debug\net6.0-windows\Practice12_Zadanie4_Poleev.csproj.CoreCompileInputs.cache
+C:\Users\ivang\OneDrive\Рабочий стол\college_2_kurs\Основы_алгоритмизации\Practice12_Zadanie4_Poleev\Practice12_Zadanie4_Poleev\obj\Debug\net6.0-windows\Practice12_Zadanie4_Poleev.dll
+C:\Users\ivang\OneDrive\Рабочий стол\college_2_kurs\Основы_алгоритмизации\Practice12_Zadanie4_Poleev\Practice12_Zadanie4_Poleev\obj\Debug\net6.0-windows\refint\Practice12_Zadanie4_Poleev.dll
+C:\Users\ivang\OneDrive\Рабочий стол\college_2_kurs\Основы_алгоритмизации\Practice12_Zadanie4_Poleev\Practice12_Zadanie4_Poleev\obj\Debug\net6.0-windows\Practice12_Zadanie4_Poleev.pdb
+C:\Users\ivang\OneDrive\Рабочий стол\college_2_kurs\Основы_алгоритмизации\Practice12_Zadanie4_Poleev\Practice12_Zadanie4_Poleev\obj\Debug\net6.0-windows\Practice12_Zadanie4_Poleev.genruntimeconfig.cache
+C:\Users\ivang\OneDrive\Рабочий стол\college_2_kurs\Основы_алгоритмизации\Practice12_Zadanie4_Poleev\Practice12_Zadanie4_Poleev\obj\Debug\net6.0-windows\ref\Practice12_Zadanie4_Poleev.dll
